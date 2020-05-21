@@ -1,4 +1,4 @@
-# Have You Been Pwned? (v2)
+# Have You Been Pwned? (v3)
 Tool to check if the given emails have been pwned in any security breach or public URL/paste.
 
 It uses haveibeenpwned.com API.
